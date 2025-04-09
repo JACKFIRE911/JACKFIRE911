@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm JACK-FIRE</h1>
-<h3 align="center">JackFire Face On Hx-Bunny (Hｘㅤ×͜×ㅤBｕｎｎｙ)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackfire911&label=Profile%20views&color=0e75b6&style=flat" alt="jackfire911" /> </p>
 
